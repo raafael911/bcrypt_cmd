@@ -1,0 +1,4 @@
+github.com/integrii/flaggy v1.4.4 h1:8fGyiC14o0kxhTqm2VBoN19fDKPZsKipP7yggreTMDc=
+github.com/integrii/flaggy v1.4.4/go.mod h1:tnTxHeTJbah0gQ6/K0RW0J7fMUBk9MCF5blhm43LNpI=
+github.com/memcachier/bcrypt v0.0.0-20170212052216-d2a4d79d50d3 h1:axD9W/WXzKilBIRHbTU+wuoxDv5Ym1KvPctBpyS4xqw=
+github.com/memcachier/bcrypt v0.0.0-20170212052216-d2a4d79d50d3/go.mod h1:ME5SFwNI7JAQ0Qi0+AVEhmaJHCOrlNrLW848r0KomaA=
